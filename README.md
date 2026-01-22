@@ -1,7 +1,7 @@
 # 🍜 Kim Long Restaurants - Modern Restaurant Website
 
 ## 🌐 Live Demo
-[View Live Site](https://kim-long-restaurants.netlify.app)
+[View Live Site](https://kimlongrestaurants.netlify.app/)
 
 A client-approved, modern restaurant website built with React 19, TypeScript, Vite, and Tailwind CSS, featuring responsive design, interactive menu, and smooth animations.
 
